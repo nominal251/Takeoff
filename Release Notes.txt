@@ -8,3 +8,6 @@ Improvements
 - Updated the first room with a TV to provide story context, as well as improved decorations
 - Updated the ending message with more story content
 - Improved the grammar of dialogue prompts for objects and a door in the first room
+
+Known Issues
+- Restarting the game in browser without refreshing the page causes the "Avatar by Room" hack to stop working
